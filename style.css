@@ -1,0 +1,14 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+}
+
+.data {
+    background-image: url('img/bts.jpeg');
+    height: 1500px;
+    width: 1500px;
+    background-repeat: no-repeat;
+}
